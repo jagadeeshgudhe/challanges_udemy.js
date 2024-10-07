@@ -23,5 +23,4 @@ const markHigherBMI=BMIMark>BMIJhon;
 
 console.log(BMIMark);
 console.log(BMIJhon);
-console.log(markHigherBMI)
-console.log()
+console.log(markHigherBMI);
