@@ -32,5 +32,5 @@ for (let i = 0; i < bills.length; i++) {
 }
 
 console.log("Bills:", bills);
-console.log("Tips:", tips);;;
+console.log("Tips:", tips);
 console.log("Totals:", totals);
