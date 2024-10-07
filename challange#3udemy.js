@@ -21,5 +21,5 @@ if(scoreDolphins>scoreKoalas){
 else if(scoreDolphins===scoreKoalas){
     console.log("Both win the trophy");
 }else{
-    console.log("Koalas win the trophy");
+    console.log("Koalas win the trophy");;
 }
