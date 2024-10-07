@@ -28,7 +28,7 @@ for (let i = 0; i < bills.length; i++) {
 
 const totals = [];
 for (let i = 0; i < bills.length; i++) {
-    totals.push(bills[i] + tips[i]);
+    totals.push(bills[i] + tips[i]);;
 }
 
 console.log("Bills:", bills);
